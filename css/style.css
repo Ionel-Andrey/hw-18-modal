@@ -1,0 +1,8 @@
+.list-group-item {
+    cursor: pointer;
+    border: 2px solid rgba(178, 187, 238, 0.4);
+    box-shadow: 0 3px 4px rgba(178, 187, 238, 0.4);
+}
+.list-group-item:hover {
+    box-shadow: 0 3px 4px rgba(178, 187, 238, 0.6);
+}
